@@ -1,0 +1,27 @@
+Campaign report
+All Time
+Campaign status,Campaign,Budget name,Currency code,Budget,Budget type,Status,Campaign Type,Impr.,Interactions,Interaction rate,Avg. cost,Cost,Bid strategy type
+Removed,DataProtector campaign, --,AUD,2.00,Daily,Removed,Search,"22,918",27,0.12%,1.24,33.43,Manual CPC
+Removed,ServiceManager campaign, --,AUD,1.00,Daily,Removed,Search,5,0,0.00%, --,0.00,Manual CPC
+Removed,Campaign #2, --,AUD,1.00,Daily,Removed,Search,0,0, --, --,0.00,Manual CPC
+Removed,VMX, --,AUD,5.00,Daily,Removed,Search,"17,778",27,0.15%,4.95,133.69,Maximise clicks
+Removed,AEED, --,AUD,0.50,Daily,Removed,Search,"3,195",40,1.25%,0.39,15.60,Maximise clicks
+Removed,Backup Navigator for HP, --,AUD,10.00,Daily,Removed,Search,"7,513",32,0.43%,3.72,119.12,Manual CPC
+Removed,Flowers test, --,AUD,20.00,Daily,Removed,Search,0,0, --, --,0.00,Manual CPC
+Removed,Campaign #3, --,AUD,2.00,Daily,Removed,Search,0,0, --, --,0.00,Maximise clicks
+Paused,VMX retarget, --,AUD,1.00,Daily,Paused,Display,0,0, --, --,0.00,Maximise clicks
+Enabled,Generic intraoral, --,AUD,1.50,Daily,Eligible (Limited),Search,"3,645",12,0.33%,0.30,3.61,Maximise clicks
+Removed,DP Book #2, --,AUD,0.50,Daily,Removed,Search,0,0, --, --,0.00,Maximise clicks
+Removed,Campaign #3, --,AUD,1.00,Daily,Removed,Search,0,0, --, --,0.00,Manual CPC
+Removed,CMDB book, --,AUD,0.50,Daily,Removed,Search,"754,794","6,153",0.82%,0.05,297.15,Maximise clicks
+Paused,Church Translation Basic, --,AUD,1.00,Daily,Paused,Search,499,15,3.01%,1.36,20.44,Maximise clicks
+Removed,DataProtector training in Sydney, --,AUD,2.00,Daily,Removed,Search,15,0,0.00%, --,0.00,Maximise clicks
+Removed,Campaign #2, --,AUD,1.00,Daily,Removed,Search,"20,935",6,0.03%,0.07,0.40,Maximise clicks
+Removed,Wet Weather Line, --,AUD,0.50,Daily,Removed,Search,431,17,3.94%,0.44,7.54,Maximise clicks
+Removed,Campaign #1, --,AUD,2.00,Daily,Removed,Search,782,4,0.51%,0.08,0.31,Maximise clicks
+Removed,Data Protector, --,AUD,1.25,Daily,Removed,Search,"290,287","1,615",0.56%,0.21,338.05,Maximise clicks
+Removed,DataProtector training in Victoria, --,AUD,2.00,Daily,Removed,Search,0,0, --, --,0.00,Maximise clicks
+Total: Filtered campaigns,,,AUD,,,,,"1,122,797","7,948",0.71%,0.12,969.35,
+Total: Account,,,AUD,,,,,"1,122,797","7,948",0.71%,0.12,969.35,
+Total: Search,,,AUD,,,,Search,"1,122,797","7,948",0.71%,0.12,969.35,
+Total: Display,,,AUD,,,,Display,0,0, --, --,0.00,

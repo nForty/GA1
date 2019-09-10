@@ -1,0 +1,19 @@
+Types of corrolation and statistic models
+
+Peason 
+	- checks to see if there is a straight line trend
+Spearman
+	- checks to see if there is an upward trend
+kendall
+	- checks relationship between every single pair of points  
+Distance
+	- close x -> close y 
+
+spurious correlations (funny stuff)
+
+
+
+t-test a hypthesis test to see if the variacne is large enought
+u-test man -whiteney u-test used very often code bleow
+
+scipy.stats.mannwhitneyu(df.A, df.B)
